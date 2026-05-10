@@ -1,0 +1,13 @@
+build/
+data/*.ndb
+data/*.schema
+logs/
+nanodb
+nanodb_tests
+benchmark_results.csv
+memory_profile.txt
+queries.txt
+*.o
+*.d
+.DS_Store
+git init
